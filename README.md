@@ -20,3 +20,7 @@ A logistic regression classifier that predicts whether a credit card application
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
